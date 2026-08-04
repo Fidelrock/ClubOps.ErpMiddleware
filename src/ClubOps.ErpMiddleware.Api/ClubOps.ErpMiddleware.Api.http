@@ -1,0 +1,6 @@
+@ClubOps.ErpMiddleware.Api_HostAddress = http://localhost:5163
+
+GET {{ClubOps.ErpMiddleware.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

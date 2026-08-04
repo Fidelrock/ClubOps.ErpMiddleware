@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClubOps.ErpMiddleware.Api/ClubOps.ErpMiddleware.Api.csproj" />
+    <Project Path="src/ClubOps.ErpMiddleware.Application/ClubOps.ErpMiddleware.Application.csproj" />
+    <Project Path="src/ClubOps.ErpMiddleware.Domain/ClubOps.ErpMiddleware.Domain.csproj" />
+    <Project Path="src/ClubOps.ErpMiddleware.Infrastructure/ClubOps.ErpMiddleware.Infrastructure.csproj" />
+    <Project Path="src/ClubOps.ErpMiddleware.Shared/ClubOps.ErpMiddleware.Shared.csproj" />
+    <Project Path="src/ClubOps.ErpMiddleware.Tests/ClubOps.ErpMiddleware.Tests.csproj" />
+  </Folder>
+</Solution>
